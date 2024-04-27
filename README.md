@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alioune4
-- 👀 I’m interested in C# programation, object oriented programming 
-- 🌱 I’m currently learning 3D models , Csharp
-- 💞️ I’m looking to collaborate on Csharp  projects
+- 👀 I’m interested in Java and Javascript
+- 🌱 I’m currently learning Spring Boot
+- 💞️ I’m looking to collaborate on Java  projects
 - 📫 How to reach me : mail : papalioune1@gmail.com
 
 <!---
